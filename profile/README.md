@@ -9,7 +9,12 @@ applications at Washington University in St. Louis.
 
 HoloLens / mobile AR / desktop geoscience exploration apps.
 
+### Actively Developed version - to be re-released mid-2026
+
 - [xr-geoxplorer](https://github.com/fossettlab/xr-geoxplorer) — unified HoloLens + iOS/Android explorer (current head, Unity 2019.4, MRTK2 + Photon + Azure Spatial Anchors)
+
+### Archived Versions
+
 - [xr-geoxplorer-mobile](https://github.com/fossettlab/xr-geoxplorer-mobile) — mobile-only branch (AR Foundation). Was published to the App Store / Play Store as `com.FossettLab.GeoXplorer`
 - [xr-geoxplorer-se](https://github.com/fossettlab/xr-geoxplorer-se) — shared-experience HoloLens variant (multi-user)
 - [xr-geoxplorer-v1](https://github.com/fossettlab/xr-geoxplorer-v1) — 2018 HoloLens-1 baseline, original git history preserved
